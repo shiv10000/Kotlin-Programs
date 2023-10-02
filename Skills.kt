@@ -25,9 +25,9 @@ import java.util.*
      }
  }
  fun main(){
-     val songone=Song(,"Manaas","xd")
+     val songone=Song("Ravi","Manaas","xd")
      songone.play()
-     val songTWO=Song("fillal","Rahul","xvideos")
+     val songTWO=Song("fillal","Rahul","anv")
      songTWO.stop()
 
 
